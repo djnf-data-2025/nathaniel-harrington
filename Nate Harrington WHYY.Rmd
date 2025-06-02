@@ -64,7 +64,7 @@ https://censusreporter.org/data/table/?table=B01001&primary_geo_id=16000US426000
 # data <- read_excel("../data/2024-12-Revenue.xlsx", skip=2) |> 
 #     clean_names()
 
-data <- read.csv("../data/acs2023_1yr_B01001_04000US42.csv") |> 
+data <- read.csv("data/acs2023_1yr_B01001_04000US42.csv") |> 
     clean_names() 
 ```
 
@@ -94,7 +94,7 @@ demographic_table <- data %>%
 Read json file as a dataframe
 ```{r}
 
-data_labels <- fromJSON("../data/metadata.json")
+data_labels <- fromJSON("data/metadata.json")
 
 column_list <- data_labels[["tables"]][["B01001"]][["columns"]]
 
