@@ -160,3 +160,20 @@ https://censusreporter.org/data/table/?table=B01001&primary_geo_id=16000US426000
 Next steps:
 You should learn to use the TidyCensus package in R. It would make this work so much easier.
 https://walker-data.com/tidycensus/
+
+
+# Second draft of pitch
+
+Nate Harrington, Second Draft of Pitch
+<br>
+
+Philadelphia is no exception to the increase in percentage of retirement age citizens, but the city is seeing more of its elderly living below the poverty line than the national average. According to the U.S. Census Bureau, 23% of Philadelphians 65 or older live below the poverty line, 12-points higher than the national average, so how can people with limited income take full advantage of their earned benefits where they apply such as Social Security, SNAP and Medicaid? And how can people approaching the retirement age make sure they can live their best lives once they can no longer work? The current administration is slashing programs and their personnel, making the process harder on everyone, and, with more and more of the nation reaching retirement age, this demand is only going to grow. This story serves people who either are at retirement age, reaching it soon, or are maybe taking care of someone who is off that age so they can best assist this person in receiving benefits.
+
+I am going to interview people from organizations like AARP and the Legal Aid Society to get the technical background on how people can access their benefits. I will also look for people who are struggling to access said benefits or might be living below the poverty line. Although there is no guarantee of me finding these people here (I might ask for assistance from people at WHYY for this), I will visit community centers that host events for senior citizens and kitchens that help people get meals to see if I can get an interview. This story is going to be another resource for people struggling with accessing benefits and may help people identify benefits they’ve earned or have access to that they were unaware they had access to. On top of the straightforward benefits of Social Security and other social safety nets, this story (or stories) could help identify strategies for keeping yourself afloat after working age.This story has so many more aspects and so much more relevancy to it than I first initially thought. Each individual program has its own requirements and process to access benefits. Also, an interesting statistic is: there is a higher percentage of retirement age people living under the poverty line than everybody living under the poverty in Philadelphia (23% and 20.3% respectively), a relationship that is flipped nationally and in the larger Philadelphia, Camden, Wilmington metropolitan area. 
+
+The most relevant and analogous story to mine is this one about the changes coming to Social Security. My story differs as its more of an explainer about how to gain access to your benefits amidst the cuts, not the differences. This story would include both data visualizations to put an emphasis on the higher rates of poverty in retirement age Philadelphians and some graphics showing some examples of how to follow the steps of applying for social safety net benefits. Photos of the interviewees, of gatherings of retirement age peoples, and more also could be beneficial to the story. Besides the reporting aspects, I would like to take a deeper look at the specific failings of the social safety nets, by finding how much Social Security pays out or how much Medicaid factors in to saving a person money in relation to how much it costs to live in Philadelphia to find how much or little the safety nets helps a person struggling with making ends meet.
+	
+	Depending on interviews (how easy it is for me to get them), I think I could deliver a story package by late-June to mid-July.
+
+
+
