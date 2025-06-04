@@ -18,8 +18,13 @@ date: "2025-05-5"
   font-size: 32px;
   font-style: italics;
 }
+
 p{
   font-size:1.5em;
+}
+
+.bdytxt{
+  color
 }
 
 </style>
