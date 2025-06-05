@@ -12,7 +12,7 @@ date: "2025-05-5"
 <div class="container">
 <style>
 .memohed{
-  color: #030303;
+  color: #114b5f;
   font-size: 3em;
   font-weight: 900;
   font-family: "Reddit Sans", sans-serif;
@@ -34,6 +34,34 @@ p{
   font-family: "Reddit Sans", sans-serif;
 }
 
+ul{
+  text-align: left;
+  list-style-type: none;
+}
+
+li{
+  font-size:1.5em;
+  font-family: "Reddit Sans", sans-serif;
+}
+
+.source{
+  font-size: 2em;
+  font-family: "Reddit Sans", sans-serif;
+  font-weight: 600; 
+  color: #1a936f;
+}
+
+a{
+  font-family: "Reddit Sans", sans-serif;
+  color: #1a936f;
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+  color: #114b5f;
+}
+
 </style>
 
 <div class="row">
@@ -49,7 +77,7 @@ p{
 
 <div class="row">
 <div class="col">
-<h2 class="memosub">Working to Death</h2>
+<h2 class="memosub">Working Till Death; Poverty in Retirement Aged Philadelphians</h2>
 </div>
 </div>
 
@@ -109,6 +137,19 @@ Philadelphia is no exception to the increase in percentage of retirement age cit
 <p>Depending on interviews (how easy it is for me to get them), I think I could deliver a story package by late-June to mid-July.</p>
 </div>
 </div>
+
+<div class="row">
+<div class="col my-3 ps-0 ms-0">
+
+<ul class="text-center">
+  <li>AARP -- Phone line: 202-434-2560; Email: media@aarp; Kevin Glass (Social Security and Retirement Expert at AARP): kglass@aarp.org</li>
+  <li>City of Philadelphia -- Mayor's Commission on Aging, Sharlene Waller: sharlene.waller@phila.gov; Office of Homeless Services, Sherylle Jones: sherylle.jones@phila.gov</li>
+  <li><a href="https://www.pcacares.org/about/leadership-governance/">Philadelphia Corporation for Aging</a></li>
+</ul>
+
+</div>
+</div>
+
 
 <!--
 
