@@ -79,7 +79,7 @@ a:hover{
 <div class="row">
   <div class="col my-3">
 
-Philadelphia, like many large cities, has a seen significant growth in retirement age citizens. What's different is that more of Philadelphia's elderly live below the poverty line than the national average. According to the U.S. Census Bureau, 23% of Philadelphians 65 or older live below the poverty line, 12-points higher than the national average. How can older Philadelphians with limited income take full advantage of their earned benefits where they apply such as Social Security, SNAP and Medicaid? And how can people approaching the retirement age make sure they can live their best lives once they can no longer work? The current administration is slashing programs and social saftey net's personnel, making the process harder on everyone, and, with more and more of the nation reaching retirement age, this demand is only going to grow. This story serves people who either are at retirement age, reaching it soon, or are maybe taking care of someone who is off that age so they can best assist this person in receiving benefits.
+Philadelphia, like many large cities, has a seen significant growth in retirement age citizens. What's different is that more of Philadelphia's elderly live below the poverty line than the national average. According to the U.S. Census Bureau, 23% of Philadelphians 65 or older live below the poverty line, 12-points higher than the national average. How can older Philadelphians with limited income take full advantage of their earned benefits when applying for Social Security, SNAP and Medicaid? And how can people approaching the retirement age make sure they can live their best lives once they can no longer work? The current administration is slashing programs and social saftey net's personnel, making the process harder on everyone, and, with more and more of the nation reaching retirement age, this demand is only going to grow. This story serves people who either are at retirement age, reaching it soon, or are maybe taking care of someone who is off that age so they can best assist this person in receiving benefits.
 
   </div>
 </div>
@@ -102,6 +102,14 @@ Philadelphia, like many large cities, has a seen significant growth in retiremen
   
   </div>
 
+</div>
+
+<div class="row">
+<div class="col">
+
+<p>Mapping poverty in Philadelphia, there is no discernible pattern in where poverty in retirement aged people is concentrated. Mapped against where minority people are -- since they are <a href="https://www.census.gov/library/stories/2020/09/poverty-rates-for-blacks-and-hispanics-reached-historic-lows-in-2019.html">disproportionately affected by poverty</a> -- there isn't a clear indication that this problem is isolated in minority groups. This problem, at least in Philadelphia is a holistic one.</p>
+
+</div>
 </div>
 
 <div class="row">
