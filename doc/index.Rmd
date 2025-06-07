@@ -1,5 +1,5 @@
 ---
-title: "Nate Harrington WHYY"
+title: "Working Till Death"
 output: html_document
 date: "2025-05-5"
 ---
@@ -26,11 +26,6 @@ date: "2025-05-5"
 
 p{
   font-size:1.5em;
-  font-family: "Reddit Sans", sans-serif;
-}
-
-.bdytxt{
-  color: #050505;
   font-family: "Reddit Sans", sans-serif;
 }
 
@@ -69,7 +64,7 @@ a:hover{
   <div class="col">
 
 
-<h1 class="memohed">Nate Harrington, Second Draft of Pitch</h1>
+<h1 class="memohed">Working Till Death; Poverty in Retirement Aged Philadelphians</h1>
 
 </div>
 
@@ -77,14 +72,14 @@ a:hover{
 
 <div class="row">
 <div class="col">
-<h2 class="memosub">Working Till Death; Poverty in Retirement Aged Philadelphians</h2>
+<h2 class="memosub">By: Nate Harrington</h2>
 </div>
 </div>
 
 <div class="row">
   <div class="col my-3">
 
-Philadelphia is no exception to the increase in percentage of retirement age citizens, but the city is seeing more of its elderly living below the poverty line than the national average. According to the U.S. Census Bureau, 23% of Philadelphians 65 or older live below the poverty line, 12-points higher than the national average, so how can people with limited income take full advantage of their earned benefits where they apply such as Social Security, SNAP and Medicaid? And how can people approaching the retirement age make sure they can live their best lives once they can no longer work? The current administration is slashing programs and their personnel, making the process harder on everyone, and, with more and more of the nation reaching retirement age, this demand is only going to grow. This story serves people who either are at retirement age, reaching it soon, or are maybe taking care of someone who is off that age so they can best assist this person in receiving benefits.
+Philadelphia, like many large cities, has a seen significant growth in retirement age citizens. What's different is that more of Philadelphia's elderly live below the poverty line than the national average. According to the U.S. Census Bureau, 23% of Philadelphians 65 or older live below the poverty line, 12-points higher than the national average. How can older Philadelphians with limited income take full advantage of their earned benefits where they apply such as Social Security, SNAP and Medicaid? And how can people approaching the retirement age make sure they can live their best lives once they can no longer work? The current administration is slashing programs and social saftey net's personnel, making the process harder on everyone, and, with more and more of the nation reaching retirement age, this demand is only going to grow. This story serves people who either are at retirement age, reaching it soon, or are maybe taking care of someone who is off that age so they can best assist this person in receiving benefits.
 
   </div>
 </div>
@@ -111,20 +106,27 @@ Philadelphia is no exception to the increase in percentage of retirement age cit
 
 <div class="row">
 <div class="col my-3">
+<iframe src='https://flo.uri.sh/visualisation/23632055/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/23632055/?utm_source=embed&utm_campaign=visualisation/23632055' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a>
+</div>
+</div>
+</div>
+
+<div class="row">
+<div class="col my-3">
 <p>The most relevant and analogous story to mine is this one about the changes coming to Social Security. My story differs as its more of an explainer about how to gain access to your benefits amidst the cuts, not the differences. This story would include both data visualizations to put an emphasis on the higher rates of poverty in retirement age Philadelphians and some graphics showing some examples of how to follow the steps of applying for social safety net benefits. Photos of the interviewees, of gatherings of retirement age peoples, and more also could be beneficial to the story. Besides the reporting aspects, I would like to take a deeper look at the specific failings of the social safety nets, by finding how much Social Security pays out or how much Medicaid factors in to saving a person money in relation to how much it costs to live in Philadelphia to find how much or little the safety nets helps a person struggling with making ends meet.</p>
 </div>
 </div>
 
 <div class="row">
 
-<div class="col-6 my-3">
+<div class="col-md-6 my-3">
 
 <iframe title="Percentage of people 65 years or older who rent" aria-label="Bar Chart" id="datawrapper-chart-CJNc0" src="https://datawrapper.dwcdn.net/CJNc0/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
 </script>
 
 </div>
 
-<div class="col-6 my-3">
+<div class="col-md-6 my-3">
 
 <iframe title="Percentage of people 65 or older who spend more than 30% of their income on rent" aria-label="Bar Chart" id="datawrapper-chart-603I6" src="https://datawrapper.dwcdn.net/603I6/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
 </script>
@@ -157,6 +159,10 @@ Philadelphia is no exception to the increase in percentage of retirement age cit
 
 </div>
 </div>
+
+<div class="flourish-embed flourish-map" data-src="visualisation/23635610"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/23635610/thumbnail" width="100%" alt="map visualization" /></noscript></div>
+
+
 
 
 <!--
@@ -321,7 +327,10 @@ https://walker-data.com/tidycensus/
 
 # Second draft of pitch
 
+
+
 -->
+
 
 
 </div>
